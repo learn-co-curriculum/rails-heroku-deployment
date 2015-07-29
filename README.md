@@ -1,8 +1,4 @@
----
-tags: heroku, deployment, rails
-languages: ruby
-resources: 1
----
+
 
 # Heroku Deployment Lab
 
