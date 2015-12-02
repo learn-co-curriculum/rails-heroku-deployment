@@ -226,3 +226,5 @@ Run `heroku open` to see your application live!
 ## Resources
 
 * [Heroku](http://heroku.com/) - [Deploying a Rails Application](https://devcenter.heroku.com/articles/getting-started-with-rails4#deploy-your-application-to-heroku)
+
+<a href='https://learn.co/lessons/rails-heroku-deployment' data-visibility='hidden'>View this lesson on Learn.co</a>
